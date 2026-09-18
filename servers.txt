@@ -1,0 +1,10 @@
+# Production servers (Kpk-Korona)
+
+web-01  193.232.94.68
+web-02  193.232.94.69
+db-master 10.99.0.1
+vpn-gw  203.0.113.100
+
+# Koronag nodes
+cloud-01 192.0.2.10
+cloud-02 192.0.2.11
