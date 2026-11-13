@@ -1,0 +1,12 @@
+﻿# Рабочие заметки
+
+Нужно не забыть обновить сертификаты на dev-стенде.
+Внутренний портал доступен по адресу http://wiki.korona.ru, логин admin, пароль стандартный.
+Для доступа к базам данных используйте прыжковый сервер: 203.0.113.100.
+Резолвинг internal.kpk-korona.ru через hosts-файл: 10.99.0.1 internal.kpk-korona.ru.
+В пятницу миграция "Займы Корона" на новые ноды 192.0.2.10 и 192.0.2.11.
+Продуктовый ключ Kpk-Korona-Confidential: XGH1-YJR5-ZKL9 (не распространять).
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
